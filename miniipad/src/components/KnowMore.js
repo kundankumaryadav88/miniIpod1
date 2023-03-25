@@ -36,7 +36,10 @@ class KnowMore extends React.Component {
                     <p>5. To navigate between a menu items you need to rotate on track wheel</p>
                     <p>6. To go to next menu or go inside a menu press center button and to go to previous menu press menu button</p>
                     <p>7. Songs do play, Please checkout settings menu</p>
-                    
+                    <p>Github-Link : <a href="https://github.com/kundankumaryadav88/miniIpod1">iPod</a> 
+                    </p>
+                   
+                    <p>App Developed by : <a href="https://github.com/kundankumaryadav88">Kundan kumar</a></p>
                     <p>credits : Apple, Flaticon</p>
                 </div>
                 <button id="info-btn" onClick={this.openDiv}>Know More</button>
